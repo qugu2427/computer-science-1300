@@ -1,0 +1,6 @@
+ROAD TRIP - HOW TO PLAY
+  Make it San Francisco CA to win.
+  If your fuel runs out or your thirst/hunger/tiredness goes above 100% you will loose.
+  Fuel up eat/drink and rest in each city.
+  You have limited money.
+  NOTE: May use linux specific console features.
